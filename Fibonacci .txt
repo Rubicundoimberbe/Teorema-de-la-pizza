@@ -1,0 +1,9 @@
+ Fibonacci 
+
+Leonardo de Pisa mas conocido como Fibonacci, fue un famoso matemático italiano que se desarrollo durante el siglo XIII. Leonardo de Pisa fue un gran viajero y comerciante, lo cual lo llevo a conocer más profundamente distintas culturas y sistemas numéricos, como por ejemplo aquella vez que viajo a África y tuvo la oportunidad de conocer el sistema indo-arábigo, la cual se utiliza actualmente en la mayoría del mundo. Una de las acciones mas reconocidas de Fibonacci fue introducir en la Edad Media en Europa la notación numérica indo-arábiga y la regla de tres, que contribuyo de gran manera al desarrollo de la algebra moderna.
+
+Fibonacci gracias a sus diferentes conocimientos de sistemas numéricos, desarrolló uno de los conceptos matemáticos mas reconocidos en el mundo matemático, la "sucesión de Fibonacci".  Este se trata de una secuencia de números en la que cada término es la  suma de los dos anteriores: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144... y así sucesivamente. }
+
+La sucesión de Fibonacci es estudiada en muchas disciplinas y se puede observar en la naturaleza, como por ejemplo, en la disposición de hojas en una planta, los pétalos d una flor y las ramas de un árbol, las cuales siguen patrones que se rigen por la secuencia de Fibonacci.
+
+
